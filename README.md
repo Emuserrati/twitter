@@ -4,3 +4,5 @@ A Python3 program to post Twitter posts with an randomly generated image. The im
 After inserting the TWITTER DEVELOPER account credentials, Access token and api communication, the program will create and post on personal twitter account the randomly generated images with a predefined time interval.
 
 See code "Image" for details and source code.
+
+Project output can be seen on the Twitter account https://twitter.com/emuserrati
